@@ -15,6 +15,7 @@ As stated above the purpose is to show different parts of git repository along w
 Deployment can be any web server. jAdded text to deployment.
 
 ## How to Contribute
+Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 2014 Git.Training
